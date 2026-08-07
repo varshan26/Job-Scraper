@@ -1,3 +1,5 @@
 flask
 curl_cffi
 gunicorn
+playwright
+beautifulsoup4
